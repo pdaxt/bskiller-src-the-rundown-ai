@@ -1,1 +1,13 @@
-{"source_name":"The Rundown Ai","repo":"bskiller-src-the-rundown-ai","story_count":7,"last_updated":"2026-03-25T07:40:38Z","months":["2026-03"]}
+{
+  "version": "1.0",
+  "source_name": "The Rundown Ai",
+  "repo": "bskiller-src-the-rundown-ai",
+  "story_count": 3,
+  "last_updated": "2026-03-25T08:58:57Z",
+  "months": [
+    {
+      "month": "2026-03",
+      "story_count": 3
+    }
+  ]
+}
